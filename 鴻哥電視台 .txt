@@ -156,6 +156,7 @@ NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 獵人HUNTER×HUNTER ,https://www.youtube.com/watch?v=Z4QKk1mST-4
 
 🔰鴻哥精選音樂頻道,#genre#
+【經典溫暖英文歌】,https://www.youtube.com/watch?v=uoy-sgZ4fMI
 【Die with small】,https://www.youtube.com/watch?v=kPa7bsKwL-c&list=RDkPa7bsKwL-c&start_radio=1
 【Imagine】,https://www.youtube.com/watch?v=Qh_rtx5bpgc
 【APT. x Toxic】,https://www.youtube.com/watch?v=TM1dJezPIrI
