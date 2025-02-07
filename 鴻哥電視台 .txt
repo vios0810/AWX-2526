@@ -147,30 +147,31 @@ NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 天才衝衝衝 ,https://www.youtube.com/watch?v=UsZi0jxZHZ8
 綜藝玩很大 ,https://www.youtube.com/watch?v=ryClunmbUaI
 新哆啦A夢 ,https://www.youtube.com/watch?v=dgAEF2ppKg8
+夜市爭霸戰 ,https://www.youtube.com/watch?v=oXw9D4lh5zM
 新兵日記&特戰英雄 ,https://www.youtube.com/watch?v=032kEdR9Lic
 台灣啟示錄 ,https://www.youtube.com/watch?v=4Eu20-JSWqQ
 藍色水玲瓏 ,https://www.youtube.com/watch?v=rTcTVZBZtYs
 新玫瑰瞳鈴眼 ,https://www.youtube.com/watch?v=qGU7fT1y8qE
 公視台語台 ,https://www.youtube.com/watch?v=6KlRR_DGhmI
-11點熱吵店 ,https://www.youtube.com/watch?v=nLi9sJV_SSU
+11點熱吵店猛鬼系列 ,https://www.youtube.com/watch?v=nLi9sJV_SSU
+11點熱吵店 ,https://www.youtube.com/watch?v=3SGPDYbW78g
 獵人HUNTER×HUNTER ,https://www.youtube.com/watch?v=Z4QKk1mST-4
+進擊的巨人S1-S4 ,https://www.youtube.com/watch?v=g4zpC0WfNx4
+蠟筆小新TV版 ,https://www.youtube.com/watch?v=T0J79UaCTAs
 
 🔰鴻哥精選音樂頻道,#genre#
 【lofi hip hop radio】,https://www.youtube.com/watch?v=jfKfPfyJRdk
 【40首適合年青人的好歌】,https://www.youtube.com/watch?v=SaXj2zX_erc&list=PLdsZnDgreMTJsbVeMY9uY3OKe2VpDvNGQ
 【The Good Life Radio】,https://www.youtube.com/watch?v=36YnV9STBqc
 【Billboard Pop Songs 2025】,https://www.youtube.com/watch?v=WnVxsr5IzUY
-【Chinese DJ 2024】,https://www.youtube.com/watch?v=F2tpshELd1o
 【Coffee Jazz Music】,https://www.youtube.com/watch?v=fEvM-OUbaKs
 【DANCE PARTY SONGS 2024】,https://www.youtube.com/watch?v=fpwx3tqvRg4
-【】,
-【】,
-【】,
+【70、80、90年代 懷舊經典老歌】,https://www.youtube.com/watch?v=ewLx8uz0NDE
+【APT. x Toxic】,https://www.youtube.com/watch?v=TM1dJezPIrI
 【不再】,https://www.youtube.com/watch?v=FaCi8_o8xwQ&list=PLLbjczffR9s0fTo_2LJL1Pxvect0uVFtE&index=4
 【經典溫暖英文歌】,https://www.youtube.com/watch?v=uoy-sgZ4fMI
 【Die with small】,https://www.youtube.com/watch?v=kPa7bsKwL-c&list=RDkPa7bsKwL-c&start_radio=1
 【Imagine】,https://www.youtube.com/watch?v=Qh_rtx5bpgc
-【APT. x Toxic】,https://www.youtube.com/watch?v=TM1dJezPIrI
 【APT. x GIRLFRIEND】,https://www.youtube.com/watch?v=GOfQojp6QAk
 【ROSÉ & Bruno Mars-APT】,https://www.youtube.com/watch?v=TY6OVN2aEKs
 【想你的夜】,https://www.youtube.com/watch?v=9agseBruqKM
