@@ -32,16 +32,14 @@ NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 
 🔰鴻哥精選音樂頻道,#genre#
 【lofi hip hop radio】,https://www.youtube.com/watch?v=jfKfPfyJRdk
-【40首適合年青人的好歌】,https://www.youtube.com/watch?v=SaXj2zX_erc&list=PLdsZnDgreMTJsbVeMY9uY3OKe2VpDvNGQ
 【The Good Life Radio】,https://www.youtube.com/watch?v=36YnV9STBqc
 【Billboard Pop Songs 2025】,https://www.youtube.com/watch?v=WnVxsr5IzUY
 【Coffee Jazz Music】,https://www.youtube.com/watch?v=fEvM-OUbaKs
 【DANCE PARTY SONGS 2024】,https://www.youtube.com/watch?v=fpwx3tqvRg4
-【70、80、90年代 懷舊經典老歌】,https://www.youtube.com/watch?v=ewLx8uz0NDE
 【APT. x Toxic】,https://www.youtube.com/watch?v=TM1dJezPIrI
 【不再】,https://www.youtube.com/watch?v=FaCi8_o8xwQ
 【經典溫暖英文歌】,https://www.youtube.com/watch?v=uoy-sgZ4fMI
-【Die with small】,https://www.youtube.com/watch?v=kPa7bsKwL-c&list=RDkPa7bsKwL-c&start_radio=1
+【Die with small】,https://www.youtube.com/watch?v=zgaCZOQCpp8
 【Imagine】,https://www.youtube.com/watch?v=Qh_rtx5bpgc
 【APT. x GIRLFRIEND】,https://www.youtube.com/watch?v=GOfQojp6QAk
 【ROSÉ & Bruno Mars-APT】,https://www.youtube.com/watch?v=TY6OVN2aEKs
