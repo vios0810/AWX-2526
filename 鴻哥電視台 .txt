@@ -39,7 +39,7 @@ NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 【DANCE PARTY SONGS 2024】,https://www.youtube.com/watch?v=fpwx3tqvRg4
 【70、80、90年代 懷舊經典老歌】,https://www.youtube.com/watch?v=ewLx8uz0NDE
 【APT. x Toxic】,https://www.youtube.com/watch?v=TM1dJezPIrI
-【不再】,https://www.youtube.com/watch?v=FaCi8_o8xwQ&list=PLLbjczffR9s0fTo_2LJL1Pxvect0uVFtE&index=4
+【不再】,https://www.youtube.com/watch?v=FaCi8_o8xwQ
 【經典溫暖英文歌】,https://www.youtube.com/watch?v=uoy-sgZ4fMI
 【Die with small】,https://www.youtube.com/watch?v=kPa7bsKwL-c&list=RDkPa7bsKwL-c&start_radio=1
 【Imagine】,https://www.youtube.com/watch?v=Qh_rtx5bpgc
