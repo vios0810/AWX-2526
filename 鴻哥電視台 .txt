@@ -11,7 +11,6 @@ NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 
 🔰鴻哥精選綜藝頻道,#genre#
 大熱門猜歌王 ,https://www.youtube.com/watch?v=cpsP1wd-HgM
-大熱門猜歌王過年特輯 ,https://www.youtube.com/watch?v=yi4uWbH6-Zg
 飢餓遊戲 ,https://www.youtube.com/watch?v=A98LJq71BZg
 萬秀豬王 ,https://www.youtube.com/watch?v=ADDSmXoPDY8
 現代嘉慶君 ,https://www.youtube.com/watch?v=bzSfQ1I5-s8
@@ -272,38 +271,45 @@ CLASSICA 古典乐,mitv://generationnexxxt.com:19806/2671749a00774d36bd1afb569bd
 Channel [V],mitv://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
 
 🔰🔰【台灣即時風景影像】🔰🔰,#genre#
+【象山看台北】,https://www.youtube.com/watch?v=z_fY1pj1VBw
 【永安漁港】,https://www.youtube.com/watch?v=tD_a03trUvE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=1
 【花蓮海岸-忘憂亭】,https://www.youtube.com/watch?v=Ic6hqus0tjA
 【高雄海岸_蚵寮國小】,https://www.youtube.com/watch?v=sKrqs-5Auqo&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=3
 【烏來老街與覽勝橋】,https://www.youtube.com/watch?v=tx07sS9lCvY&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=5
 【礁溪寒沐酒店頂樓】,https://www.youtube.com/watch?v=cPh2vzrtG_w&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=6
 【高雄壽山情人觀景台】,https://www.youtube.com/watch?v=C03Itx8iSC0&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=21
-【高雄蓮池潭】,https://www.youtube.com/watch?v=BnPoNatG-HE&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=22
-【高雄旗津海水浴場】,https://www.youtube.com/watch?v=ka7FV0sCvxQ&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=36
+【高雄蓮池潭】,https://www.youtube.com/watch?v=BnPoNatG-HE
+【高雄旗津海水浴場】,https://www.youtube.com/watch?v=ka7FV0sCvxQ
 【淡水漁人碼頭】,https://www.youtube.com/watch?v=xwAWSh35uuw&list=PLWLEgnHzuoYx8Y4s_HPV1H1EYmLT6X74E&index=53
-【桃園國際機場 北跑道觀景台】,https://www.youtube.com/watch?v=wWEnxWA7nnY&list=PLlBCNJxYNaFzdUPNDmPbe4uXftZ8octo2
-【台東多良車站】,https://www.youtube.com/watch?v=UCG1aXVO8H8&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_
+【桃園國際機場 北跑道觀景台】,https://www.youtube.com/watch?v=wWEnxWA7nnY
+【台東多良車站】,https://www.youtube.com/watch?v=UCG1aXVO8H8
 【墾丁大街、墾丁大灣、墾丁路】,https://www.youtube.com/watch?v=ue4O7d9qP6I&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=30
 【三仙台】,https://www.youtube.com/watch?v=dQ7Sd6PGLdA&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_&index=12
 【綠島柴口浮潛區】,https://www.youtube.com/watch?v=zQQSfAkjCJc&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_&index=21
-【金崙大橋】,https://www.youtube.com/watch?v=9QqBz3kNHis&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_&index=32
+【金崙大橋】,https://www.youtube.com/watch?v=9QqBz3kNHis
 【西子灣】,https://www.youtube.com/watch?v=Jsz-d62r-Eg&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=46
 【富岡漁港】,https://www.youtube.com/watch?v=VG8ASWpuUvE&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=51
 【加路蘭遊憩區】,https://www.youtube.com/watch?v=AKl3F6cAY2Q&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_&index=41
 【西子灣2】,https://www.youtube.com/watch?v=BV43sOgquQk&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=53
-【金門134高地】,https://www.youtube.com/watch?v=-srNHTE-Nf0&list=PLJb92SB7GThpi0Db7KVKq7MMN6pipLMR_&index=60
-【桃園國際機場 南跑道觀景台】,https://www.youtube.com/watch?v=y3_x8el5ZJY&list=PLlBCNJxYNaFzdUPNDmPbe4uXftZ8octo2&index=3
+【金門134高地】,https://www.youtube.com/watch?v=-srNHTE-Nf0
+【桃園國際機場 南跑道觀景台】,https://www.youtube.com/watch?v=y3_x8el5ZJY
 【壽豐花蓮大橋】,https://www.youtube.com/watch?v=BDs9UIRw4zc&list=PLDm4hXBol5DE9QmiOdgyzYmS2jRzenhUv&index=213
-【台東池上天堂路】,https://www.youtube.com/watch?v=6kUEK3LVrro&list=PLlBCNJxYNaFzdUPNDmPbe4uXftZ8octo2&index=56
+【台東池上天堂路】,https://www.youtube.com/watch?v=6kUEK3LVrro
 【高雄旗津】,https://www.youtube.com/watch?v=qEishQW_Wxc
-【合歡山武嶺亭】,https://www.youtube.com/watch?v=2lVMTs_Fj0M&list=PLlBCNJxYNaFzdUPNDmPbe4uXftZ8octo2&index=66
+【合歡山武嶺亭】,https://www.youtube.com/watch?v=2lVMTs_Fj0M
 【高雄市澄清湖、澄清湖觀夕平台】,https://www.youtube.com/watch?v=uKeDvjvYJdw
 【桃園國際機場】,https://www.youtube.com/watch?v=91PfFoqvuUk
 【大稻埕碼頭】,https://www.youtube.com/watch?v=Ndo_8RuefH4
 【石門水庫】,https://www.youtube.com/watch?v=GUCaVR88ZFU
 【奮起湖】,https://www.youtube.com/watch?v=jXcy8dmGYqg&list=PLlBCNJxYNaFzdUPNDmPbe4uXftZ8octo2&index=95
-【台中望高寮】,https://www.youtube.com/watch?v=lhXXhDyjFtI&list=PLlBCNJxYNaFzdUPNDmPbe4uXftZ8octo2&index=105
+【台中望高寮】,https://www.youtube.com/watch?v=lhXXhDyjFtI
 【三仙台】,https://www.youtube.com/watch?v=dQ7Sd6PGLdA&list=PLlBCNJxYNaFzdUPNDmPbe4uXftZ8octo2&index=108
+【大溪老街】,https://www.youtube.com/watch?v=XUWjAsajKXg
+【大佳河濱公園】,https://www.youtube.com/watch?v=fP4ecxfsJos
+【角板山梅園】,https://www.youtube.com/watch?v=-xT1bZhWLuU
+【金樽遊憩區】,https://www.youtube.com/watch?v=ZdqHgQwvZOw
+【台東華源曙光觀景台】,https://www.youtube.com/watch?v=TY4qQElcUrA
+【金門建功嶼】,https://www.youtube.com/watch?v=uh_yNAE01w8
 
 💝Live-AKTV,#genre#
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
