@@ -243,30 +243,14 @@ NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 【Saxophone】,https://www.youtube.com/watch?v=c3IVTi6TlfE
 【睡眠音樂】,https://www.youtube.com/watch?v=b_TW4NYsbOo
 【Jazz】,https://www.youtube.com/watch?v=Dx5qFachd3A
-【Eight FM】,https://www.youtube.com/watch?v=o1ipHJUfFTM
 【LofiGirl-asian lofi radio】,https://www.youtube.com/watch?v=Na0w3Mz46GA
 【LofiGirl-lofi hip hop radio】,https://www.youtube.com/watch?v=jfKfPfyJRdk
 【Live Music Radio】,https://www.youtube.com/watch?v=8M0AvPvPg0A
 【2024 年熱門歌曲】,https://www.youtube.com/watch?v=uNd5kvrGHjk
 【ts_bThe Good Life radio】,https://www.youtube.com/watch?v=36YnV9STBqc
 【Starbucks Bossa Coffee】,https://www.youtube.com/watch?v=9hqfOZrNcmo
-【波薩諾瓦音樂】,https://www.youtube.com/watch?v=35kwlY_RR08
-【抖音歌曲 2024】,https://www.youtube.com/watch?v=A-N6VG4f5YI
 【avex J-POP】,https://www.youtube.com/watch?v=tr77RbnfYIU
-【粤语金曲】,https://www.youtube.com/watch?v=dstIa1a4EfY
-【粵語歌曲1】,https://www.youtube.com/watch?v=nkrCq5SurdA
-【🔴 LIVE! 廣東熱播24小時】,https://www.youtube.com/watch?v=p7SIk-Q5CNI
-【KKBOX華語單曲排行週榜】,https://www.youtube.com/watch?v=91PS1EyiyL0
-【粵語歌曲3】,https://www.youtube.com/watch?v=8S3l4GS6JAI
-【KKBOX華語單曲排行週榜】,https://www.youtube.com/live/ZadWtMrj614
-【抖音歌曲】,https://www.youtube.com/watch?v=hSzt7cJOT80
-【HIP HOP MIX】,https://www.youtube.com/watch?v=-33W-Nb6Dgs
-【近五年最受歡迎的音樂大盤點】,https://www.youtube.com/watch?v=oYn_lrJxF5A
 【Relaxing Music for Cats】,https://www.youtube.com/watch?v=CiNnUq_VJ-E
-Music Japan TV,mitv://generationnexxxt.com:19806/eac0fadf3f7e4242b1282d1b3d9b4b08
-Mezzo Live,mitv://generationnexxxt.com:19806/c87ec7818611487095699a6f5d65e9c4
-CLASSICA 古典乐,mitv://generationnexxxt.com:19806/2671749a00774d36bd1afb569bd1edeb
-Channel [V],mitv://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
 
 🔰🔰【台灣即時風景影像】🔰🔰,#genre#
 【象山看台北】,https://www.youtube.com/watch?v=z_fY1pj1VBw
