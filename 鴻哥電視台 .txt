@@ -297,6 +297,13 @@ NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 【三仙台】,https://www.youtube.com/watch?v=dQ7Sd6PGLdA
 【劍潭山微風平台】,https://www.youtube.com/watch?v=34h_Cy_n0Ok
 【壽山情人觀景台】,https://www.youtube.com/watch?v=C03Itx8iSC0
+【三峽老街北段】,https://www.youtube.com/watch?v=M24SZJU-uoo
+【三峽老街南段】,https://www.youtube.com/watch?v=R_5jhoux3nY
+【旗山老街、旗山天后宮 重要路口】,https://www.youtube.com/watch?v=q64rXzV3TLs
+【】,
+
+
+
 
 
 💝Live-AKTV,#genre#
