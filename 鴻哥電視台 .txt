@@ -33,10 +33,11 @@ NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 【腦公】,https://www.youtube.com/watch?v=UYWUAQhhR_g
 【天后】,https://www.youtube.com/watch?v=OhPyurx8-N0
 【旅行的意義】,https://www.youtube.com/watch?v=tv95k0zqnaA
-【慢冷】,https://www.youtube.com/watch?v=TpF0wNlopp8
 【千千阙歌】,https://www.youtube.com/watch?v=UxmpcK1TRp0
 【朋友】,https://www.youtube.com/watch?v=ZQR_S8dVrvE
 【敢爱敢做】,https://www.youtube.com/watch?v=X1b6dBbfBhc
+【有多少爱可以重来】,https://www.youtube.com/watch?v=eXgHhY2QG8w
+【坚持到底】,https://www.youtube.com/watch?v=QMEO7_6CGGA
 【】,
 【】,
 【】,
@@ -60,8 +61,6 @@ NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 【七情六欲】,https://www.youtube.com/watch?v=cgRYMC8LN2c
 【Always Remember Us This Way】,https://www.youtube.com/watch?v=6-Dci8X2Zvk
 【雨蝶】,https://www.youtube.com/watch?v=XBCrYsXnWbc
-【有多少爱可以重来】,https://www.youtube.com/watch?v=eXgHhY2QG8w
-【坚持到底】,https://www.youtube.com/watch?v=QMEO7_6CGGA
 【他一定很爱你】,https://www.youtube.com/watch?v=ZzMwd9gkwPU
 【天黑】,https://www.youtube.com/watch?v=OBewhRJheec
 【五十年以後】,https://www.youtube.com/watch?v=YXV8e448rIM
@@ -73,6 +72,7 @@ NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 【絕口不提愛你】,https://www.youtube.com/watch?v=MdpsjWlF-ZU
 【嘉賓】,https://www.youtube.com/watch?v=k2ILCT9IB_o
 【再見煙火】,https://www.youtube.com/watch?v=pWv4AVV0_as
+🔰鴻哥精選英文老歌頻道,#genre#
 【Casablanca】,https://www.youtube.com/watch?v=uh-_lT4CMDs
 【BeeGees】,https://www.youtube.com/watch?v=L_EUe7U6iXQ
 【Sometimes】,https://www.youtube.com/watch?v=t0bPrt69rag
@@ -240,6 +240,7 @@ NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 【】,
 【】,
 【】,
+🔰鴻哥線上音樂頻道,#genre#
 【lofi hip hop radio】,https://www.youtube.com/watch?v=jfKfPfyJRdk
 【The Good Life Radio】,https://www.youtube.com/watch?v=36YnV9STBqc
 【Billboard Pop Songs 2025】,https://www.youtube.com/watch?v=WnVxsr5IzUY
