@@ -305,11 +305,13 @@ NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 【三峽老街北段】,https://www.youtube.com/watch?v=M24SZJU-uoo
 【三峽老街南段】,https://www.youtube.com/watch?v=R_5jhoux3nY
 【旗山老街、旗山天后宮 重要路口】,https://www.youtube.com/watch?v=q64rXzV3TLs
+【觀音山】,https://www.youtube.com/watch?v=yjOeO_33OoU
+【小烏來天空步道】,https://www.youtube.com/watch?v=neaiCec1kec
+【太平雲梯】,https://www.youtube.com/watch?v=dY2cRNr5Buw
+【淡水漁人碼頭】,https://www.youtube.com/watch?v=xwAWSh35uuw
 【】,
-
-
-
-
+【】,
+【】,
 
 💝Live-AKTV,#genre#
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
