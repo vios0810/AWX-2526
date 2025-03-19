@@ -8,12 +8,14 @@ TVBS NEWS ,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞 ,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
+
 🔰鴻哥精選綜藝頻道,#genre#
 大熱門猜歌王 ,https://www.youtube.com/watch?v=cpsP1wd-HgM
 飢餓遊戲 ,https://www.youtube.com/watch?v=A98LJq71BZg
 萬秀豬王 ,https://www.youtube.com/watch?v=ADDSmXoPDY8
 現代嘉慶君 ,https://www.youtube.com/watch?v=bzSfQ1I5-s8
 57怪物奇談 ,https://m.youtube.com/watch?v=0CfImCAFIPo&pp=ygUONTfmgKrlpYfnianoqp4%3D-LzbZXk
+戲說台灣 ,https://www.youtube.com/watch?v=_OQnjeFiDIc
 天才衝衝衝 ,https://www.youtube.com/watch?v=UsZi0jxZHZ8
 綜藝玩很大 ,https://www.youtube.com/watch?v=ryClunmbUaI
 新哆啦A夢 ,https://www.youtube.com/watch?v=dgAEF2ppKg8
@@ -258,6 +260,8 @@ NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 【Starbucks Bossa Coffee】,https://www.youtube.com/watch?v=9hqfOZrNcmo
 【avex J-POP】,https://www.youtube.com/watch?v=tr77RbnfYIU
 【Relaxing Music for Cats】,https://www.youtube.com/watch?v=CiNnUq_VJ-E
+【經典粵語懷舊歌曲】,https://www.youtube.com/watch?v=TCGeG2o7XE8
+
 
 🔰🔰【台灣即時風景影像】🔰🔰,#genre#
 【象山看台北】,https://www.youtube.com/watch?v=z_fY1pj1VBw
